@@ -1,0 +1,13 @@
+{
+  "timeZone": "America/Bogota",
+  "dependencies": {
+  },
+  "dataStudio": {
+    "name": "CLientify Connector",
+    "logoUrl": "https://clientify.net/static/img/clientify-logotipo-blanco-low.png",
+    "company": "HoyTrabajas.com",
+    "addonUrl": "https://github.com/vlaguzman/clientify_connector",
+    "supportUrl": "https://github.com/vlaguzman/clientify_connector",
+    "description": "This connector can be used to pull principal data of contacts of clientify"
+  }
+}
